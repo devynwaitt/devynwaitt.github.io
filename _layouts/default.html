@@ -7,12 +7,12 @@
 
     {% include header.html %}
 
-    <div class="page-content">
+    <div class="dev-wrapper">
 
-      <div class="dev-links"> links <br> <a href="index.html"/> home </a> <br>
-<a href="trailer.html"/> my trailer yo </a>
-       </div>
-      <div class="wrapper">
+        {% include links.html %}
+
+
+      <div class="dev-page">
         {{ content }}
       </div>
     </div>
