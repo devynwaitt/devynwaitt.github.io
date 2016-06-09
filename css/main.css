@@ -1,4 +1,13 @@
-.dev-links { margin-right:150px;
+.dev-links {
+  margin-right: 150px;
+  margin-left:  50px;
+}
+
+.heading1 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: 500;
+    font-size: 100%;
 }
 
 .dev-wrapper {
