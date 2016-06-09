@@ -5,8 +5,7 @@ You could be doing so many things.
 Tying your shoe. 
 Watching videos of baby elephants.
 Staring at your hands.
-Cleaning the blades of your fan. 
-(how do they get so dirty?!)
+Cleaning the blades of your fan (how do they get so dirty?!)
 But
 You are here.
 So, welcome. 
@@ -24,13 +23,13 @@ Is it to your advantage to switch your choice?
 
 or
 
-How nice it is to kiss soft lips,
+how nice it is to kiss soft lips,
 
 or
 
-Whether or not you are working on things that you feel are important.
+whether or not you are working on things that you believe are important.
 
-xoxox
+xoxo
 devyn
 
 
