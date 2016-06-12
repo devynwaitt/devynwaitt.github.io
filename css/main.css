@@ -3,6 +3,7 @@
   margin-left:  45px;
   margin-bottom: 100px;
   font-family: 'Oswald', sans-serif;
+  width: 100%;
 }
 
 .heading1 {
@@ -17,7 +18,7 @@
 }
 
 .dev-page {
-  width:900px;
+  
 
 }
 
@@ -35,4 +36,5 @@ table {
   }
   img {
   max-width: 100%;
+  width: 100%;
   }
