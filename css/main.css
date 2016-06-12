@@ -2,6 +2,7 @@
   margin-right: 150px;
   margin-left:  45px;
   margin-bottom: 100px;
+  font-family: 'Oswald', sans-serif;
 }
 
 .heading1 {
@@ -19,3 +20,5 @@
   width:900px;
 
 }
+
+body {font-family: 'Playfair Display', serif;}
