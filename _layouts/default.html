@@ -7,19 +7,12 @@
 
     {% include header.html %}
 
-    <div class="row">
 
-      <div class="four columns">
-          {% include logo.html %}
-          {% include links.html %}
-      </div>
-
-      <div class="eight columns">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
+<table cellpadding="0"> <tr> <td width="400">
+  {% include logo.html %}
+  {% include links.html %}
+</td><td valign="top">{{ content }}</td></tr></table>
+  {% include footer.html %}
 
   </body>
 
