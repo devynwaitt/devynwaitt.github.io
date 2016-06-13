@@ -18,7 +18,7 @@
 }
 
 .dev-page {
-  
+
 
 }
 
@@ -30,11 +30,11 @@ html, body {
  margin: 0;
 }
 
-table {
+/*table {
   height:100%;
   width:100%;
-  }
-  img {
+  }*/
+
+ img {
   max-width: 100%;
-  width: 100%;
   }
