@@ -2,7 +2,7 @@
   margin-right: 150px;
   margin-left:  45px;
   margin-bottom: 100px;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'helvetica', sans-serif;
   width: 100%;
 }
 
@@ -18,11 +18,11 @@
 }
 
 .dev-page {
-  
+
 
 }
 
-body {font-family: 'Playfair Display', serif;}
+body {font-family: 'helvetica', serif;}
 
 html, body {
  height: 100%;
