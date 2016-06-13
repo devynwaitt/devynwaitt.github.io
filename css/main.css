@@ -41,3 +41,5 @@ html, body {
  img {
   max-width: 800px;
   }
+
+.girl {position: fixed; bottom: 0px; right: 0px;}
