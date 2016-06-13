@@ -1,9 +1,11 @@
 .dev-links {
-  margin-right: 150px;
-  margin-left:  45px;
+  margin-left:  15px;
   margin-bottom: 100px;
+
   font-family: 'helvetica', sans-serif;
   width: 100%;
+
+
 }
 
 .heading1 {
@@ -30,11 +32,11 @@ html, body {
  margin: 0;
 }
 
-table {
+/*table {
   height:100%;
   width:100%;
-  }
-  img {
-  max-width: 100%;
-  width: 100%;
+  }*/
+
+ img {
+  max-width: 800px;
   }
