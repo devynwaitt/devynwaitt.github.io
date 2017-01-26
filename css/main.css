@@ -81,13 +81,3 @@ html, body {
   }
 
 .girl {position: fixed; bottom: 0px; right: 0px;}
-
-
-
-body#background {
-background: url(‘images/kiss.jpg’) no-repeat 50% 50% fixed;
-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
--webkit-background-size: cover;
-}
