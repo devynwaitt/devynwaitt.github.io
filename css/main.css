@@ -18,14 +18,18 @@ a {
 
 .about {
   display: flex;
-  margin-top: 60px;
+  margin-top: 40px;
+
+
+
 }
 .about-gif {
-  width: 60%;
+  width: 50%;
+  margin-right: 70px;
 }
 .about-info {
-  margin-top: 60px;
-  
+  margin-top: 85px;
+
 }
 
 .cvwrapper {
