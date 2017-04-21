@@ -2,12 +2,53 @@
 font-family: ApexNewMed;
 src: url("/fonts/ApexNewMed.otf");
 }
-
+@font-face {
+font-family: DomaineDisplay;
+src: url("/fonts/DomaineDisplay-Regular.otf");
+}
+a {
+  color: #999;
+}
 .mit-wrapper {
   margin: 0 auto;
   width: 1000px;
   margin-top: 40px;
   font-size: 90%;
+}
+
+.about {
+  display: flex;
+  margin-top: 60px;
+}
+.about-gif {
+  width: 60%;
+}
+.about-info {
+  margin-top: 60px;
+  
+}
+
+.cvwrapper {
+  margin: 0 auto;
+  width: 800px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+
+}
+
+.subwrapper {
+  display: flex;
+  margin-top: 40px;
+
+}
+.subwrapper-item {
+width: 600px;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 1100px;
+  margin-top: 20px;
 }
 
 .mit-head {
@@ -30,8 +71,72 @@ src: url("/fonts/ApexNewMed.otf");
   font-size: 300%;
   margin-top: 20px;
 }
+.devyn {
+  font-family: 'DomaineDisplay';
+  font-size: 330%;
+  margin-top: 20px;
+}
+.devyn a {
+text-decoration: none;
+color: black;
+}
+.bottomlinks {
+  margin-top:  11px;
 
 
+  font-family: 'DomaineDisplay';
+  font-size: 110%;
+
+}
+
+.vidz {
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-between;
+}
+
+.vid {
+  margin-bottom: 30px;
+
+}
+
+.vidvid {
+
+}
+
+.vidtitle {
+  text-align: center;
+  margin-top: 10px;
+
+
+}
+.vidtitle a{
+text-decoration: none;
+color: black;
+
+
+}
+
+.vidtitle a:hover{
+color: #999;
+
+
+}
+.bottomlinks a{
+
+
+ text-decoration: none;
+color: black;
+}
+
+.newheader {
+  margin-top: 0px;
+  margin-bottom: 34px;
+}
+
+.bottomitem{
+  margin-right: 30px;
+}
 
 .dev-links {
   margin-left:  15px;
@@ -63,7 +168,10 @@ src: url("/fonts/ApexNewMed.otf");
 
 }
 
-body {font-family: 'helvetica', serif;}
+body {
+  font-family: "arial", serif;
+  font-size: 90%;
+}
 
 html, body {
  height: 100%;
