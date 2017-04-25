@@ -80,6 +80,20 @@ width: 600px;
   font-size: 330%;
   margin-top: 20px;
 }
+
+.devyn1 {
+  font-family: 'DomaineDisplay';
+  font-size: 230%;
+  margin-top: 20px;
+  text-decoration: underline;
+}
+
+.devyn2 {
+  font-family: 'DomaineDisplay';
+  font-size: 130%;
+  margin-top: 10px;
+
+}
 .devyn a {
 text-decoration: none;
 color: black;
