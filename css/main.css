@@ -78,7 +78,7 @@ color: #999;
 .vidCap {
   display: flex;
   justify-content: flex-end;
-  margin-top:20px; 
+  margin-top:20px;
 
 }
 .vidCap-item {
@@ -256,16 +256,18 @@ width: 600px;
 }
 
 .devyn1 {
-  font-family: 'DomaineDisplay';
+  font-family: 'arial';
   font-size: 230%;
   margin-top: 20px;
-  text-decoration: underline;
+
 }
 
 .devyn2 {
-  font-family: 'DomaineDisplay';
+  font-family: 'arial';
   font-size: 130%;
   margin-top: 10px;
+  font-style: italic;
+
 
 }
 .devyn a {
