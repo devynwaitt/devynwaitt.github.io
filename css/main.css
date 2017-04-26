@@ -257,16 +257,18 @@ width: 600px;
 
 .devyn1 {
   font-family: 'arial';
-  font-size: 230%;
+  font-size: 170%;
   margin-top: 20px;
 
 }
 
 .devyn2 {
   font-family: 'arial';
-  font-size: 130%;
+  font-size: 100%;
   margin-top: 10px;
   font-style: italic;
+  text-decoration: underline;
+
 
 
 }
